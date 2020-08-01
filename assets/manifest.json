@@ -1,0 +1,8 @@
+{
+	"name":"Pwa first",
+	"short_name":"Pwa first",
+	"start_url":".",
+	"background_color":"#6dcdb1",
+	"theme_color":"#009578",
+	"display":"standalone"
+}
